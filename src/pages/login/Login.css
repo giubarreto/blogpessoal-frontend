@@ -1,8 +1,8 @@
 .fundoLogin {
-    background-image: url("https://i.imgur.com/ZZFAmzo.jpg");
-    background-repeat: no-repeat;
-    min-height: 100vh;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
+    background-image: url("https://i.imgur.com/ZZFAmzo.jpg"); /* Define a imagem de fundo */
+    background-repeat: no-repeat; /* Não repete a imagem */
+    min-height: 100vh; /* Altura mínima igual à altura da tela */
+    width: 100%; /* Largura total do elemento */
+    background-size: cover; /* Faz a imagem cobrir todo o elemento */
+    background-position: center; /* Centraliza a imagem no elemento*/
 }
